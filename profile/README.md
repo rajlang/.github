@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/92216332?s=100&v=4" alt="Logo" width="150">
+![Logo](https://avatars.githubusercontent.com/u/92216332?s=150)
 
 # Raj Lang
 
