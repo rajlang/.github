@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/rajlang/.github/blob/main/raj-lang-logo.png" alt="Logo" width="150">
+<img src="https://avatars.githubusercontent.com/u/92216332?s=100&v=4" alt="Logo" width="150">
 
 # Raj Lang
 
