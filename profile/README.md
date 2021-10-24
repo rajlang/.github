@@ -15,7 +15,7 @@ Raj lang's syntax is primarily inspired form [JavaScript](https://en.wikipedia.o
 ```raj
 # Function
 
-// Declaration
+// Function declaration
 fn main() {
   println("Hello World");
 }
@@ -23,15 +23,15 @@ fn main() {
 // Calling
 main();
 
-# Variables
+# Variables declaration
 
-// with declaration
-let a = "a";
-const b = "b";
+// with keyword
+let a = "a"; // mutable
+const b = "b"; // im-mutable
 
-//without declaration
-a = "a";
-b = "b";
+// without declaration
+a = "a"; // mutable
+b = "b"; // mutable
 ```
 
 To learn more about syntax take a look at our [Syntax](https://github.com/rajlang/Syntax) repo
