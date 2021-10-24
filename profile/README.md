@@ -29,7 +29,7 @@ main();
 let a = "a"; // mutable
 const b = "b"; // im-mutable
 
-// without declaration
+// without keyword
 a = "a"; // mutable
 b = "b"; // mutable
 ```
