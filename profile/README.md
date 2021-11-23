@@ -69,7 +69,7 @@ When [I](https://github.com/Rajaniraiyn) started programming, I trembled to read
 | :---------------------: | :--------------------: |
 |   :heavy_check_mark:    |       Completed        |
 |   :man_technologist:    |  Working in progress   |
-| :building_construction: |    Will be competed    |
+| :building_construction: |    Will be completed    |
 |       :handshake:       | Collaborators required |
 
 ## :scroll: License
